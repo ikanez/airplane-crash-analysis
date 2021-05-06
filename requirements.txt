@@ -43,7 +43,7 @@ fastapi==0.45.0
 flake8==3.7.9
 flashtext==2.7
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-GraphQL==2.0.1
 Flask-Sockets==0.2.1
 fsspec==0.6.2

@@ -193,7 +193,7 @@ wasabi==0.2.2
 watchdog==0.9.0
 wcwidth==0.1.7
 webencodings==0.5.1
-websockets==8.1
+websockets==9.1
 Werkzeug==0.16.0
 widgetsnbextension==3.5.1
 zict==1.0.0

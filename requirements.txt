@@ -29,7 +29,7 @@ dacite==1.1.0
 dagit==0.6.6
 dagster==0.6.6
 dagster-graphql==0.6.6
-dask==2.9.0
+dask==2021.10.0
 decorator==4.4.1
 defusedxml==0.6.0
 distributed==2.9.0
